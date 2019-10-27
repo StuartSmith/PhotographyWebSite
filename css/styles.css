@@ -20,17 +20,19 @@ h2{
     text-transform: capitalize;
     margin:0;
 }
-*
+
 img 
 {
     display: block;
-    widows: 100%;
+    width: 100%;
 }
 
 main{
     max-width: 900px;
     margin:auto;
-    box-shadow: 30px 0px  40px rgb(0,0,0,0.1), -30px  0px  40px rgb(0,0,0,0.1);
+    box-shadow: 30px 0px  40px rgba(0,0,0,0.1), -30px 0px  40px rgba(0,0,0,0.1);
+   
+    
 }
 
 #landing{
@@ -53,10 +55,65 @@ main{
     color:#888;
 }
 
+#landing-image
+{ 
+    background: url(http://source.unsplash.com/De8wMYoSSBc);
+    background-position: center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 50vh;
+    flex:0 1 60vw;  
+}
+
+
 .btn
 {
     padding:0.5rem 2rem;
     border:1px #ccc solid;
     display: inline-block;
+    margin: 2rem 0 0;
+    border-radius:50px;
+    text-decoration: none;
+    color: #333;
+    transition: background 250ms ease-in;
 }
 
+.btn:hover{
+    background:#f4f4f4;
+}
+
+#header {
+    padding : 1.5rem;
+    text-align:center;
+    background:#333;
+    color:#fff
+}
+
+#header h2
+{
+    border-left:dotted 1px #fff;
+    border-right:dotted 1px #fff;
+    display:inline-block;
+    padding-right: 1rem;
+    padding-left: 1rem;
+
+}
+
+.caption {
+      padding:.08rem;
+      text-align:center;
+}
+
+footer {
+    text-align:center;
+    padding: 2rem 1rem;
+    margin: auto;
+    color:#333;
+}
+
+footer h3 {
+    font-size:3rem;
+    margin-bottom:0;
+}
+
+/*
