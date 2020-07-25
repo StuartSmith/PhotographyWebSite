@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=XsEnj-1hG2o
 
 ## Demo
 
-To see a demo of the website go to the following URL
+For a Demo click the following:
 
 http://htmlpreview.github.io/?https://github.com/StuartSmith/PhotographyWebSite/blob/master/index.html
 
@@ -32,7 +32,7 @@ The gradient for the HTML is coming from the following CSS. There is a box shado
 box-shadow: 30px 0px  40px rgba(0,0,0,0.1), -30px 0px  40px rgba(0,0,0,0.1);
 
 Responsiveness is create by using the following media queries
-
+```
 @media(min-width:500px)
 {
     #landing
@@ -48,7 +48,9 @@ Responsiveness is create by using the following media queries
         height: 100vh;
     }
 }
+```
 
+```
 @media(max-width:500px)
 {
     #landing
@@ -64,7 +66,7 @@ Responsiveness is create by using the following media queries
         height: 50vh;
     }
 }
-
+```
 ## JQUERY
 
 Press the show work button to create smooth scrolling  Jqueury effect down the screen to show the first photo in the array of 
