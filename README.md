@@ -1,4 +1,6 @@
-# Photography Responsive Web site
+# Responsive Photography Web site
+
+<img  src="https://raw.githubusercontent.com/StuartSmith/PhotographyWebSite/master/WebsiteImage.JPG">
 
 This is a simple web site that follows along Brad Traversties tutorial on creating a responsive web sites.
 
