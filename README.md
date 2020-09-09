@@ -66,7 +66,7 @@ Responsiveness is create by using the following media queries
 ```
 ## JQUERY
 
-Press the show work button to see smooth scrolling Jqueury effect, which scrolls down to the first photo in the array of photos. ##This does not work though in the github demo site.## 
+Press the show work button to see smooth scrolling Jqueury effect, which scrolls down to the first photo in the array of photos.  This does not work though in the github demo site.  
 
 ## Video for Tutorial
 The tutorial that was followed for creating this web site can be found here. 
