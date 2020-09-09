@@ -28,7 +28,7 @@ The gradient for the HTML is coming from the following CSS. There is a box shado
 
 box-shadow: 30px 0px  40px rgba(0,0,0,0.1), -30px 0px  40px rgba(0,0,0,0.1);
 
-Responsiveness is create by using the following media queries
+Responsiveness is created by using the following media queries.
 ```
 @media(min-width:500px)
 {
