@@ -2,11 +2,8 @@
 
 <img  src="https://raw.githubusercontent.com/StuartSmith/PhotographyWebSite/master/WebsiteImage.JPG">
 
-This is a simple web site that follows along Brad Traversties tutorial on creating a responsive web sites.
+This is a simple web site that follows along Brad Traversties tutorial, on creating a responsive web sites.
 
-The tutorial that was followed for creating this web site can be found here. 
-
-https://www.youtube.com/watch?v=XsEnj-1hG2o
 
 ## Demo
 
@@ -71,3 +68,7 @@ Responsiveness is create by using the following media queries
 
 Press the show work button to create smooth scrolling  Jqueury effect down the screen to show the first photo in the array of photos 
 
+## Video for Tutorial
+The tutorial that was followed for creating this web site can be found here. 
+
+https://www.youtube.com/watch?v=XsEnj-1hG2o
