@@ -7,7 +7,7 @@ This is a simple web site that follows along Brad Traversties tutorial, on creat
 
 ## Demo
 
-For a Demo click the following:
+To Demo this site click the following:
 
 http://htmlpreview.github.io/?https://github.com/StuartSmith/PhotographyWebSite/blob/master/index.html
 
