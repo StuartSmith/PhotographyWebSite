@@ -69,5 +69,5 @@ Responsiveness is create by using the following media queries
 ```
 ## JQUERY
 
-Press the show work button to create smooth scrolling  Jqueury effect down the screen to show the first photo in the array of 
+Press the show work button to create smooth scrolling  Jqueury effect down the screen to show the first photo in the array of photos 
 
